@@ -17,6 +17,7 @@ O projeto foi desenvolvido durante o Next Level Week Expert com objetivo de cria
 - [x] Detalhes do pedido.
   - [x] Adiciona o pedido no carrinho.
 - [x] Listagem dos pedidos no carrinho.
+  - [X] Remove pedido do carrinho.
   - [x] Envia os pedidos formatado com endereço de entrega para Whatsapp.
 
 ## 📱 Demo
